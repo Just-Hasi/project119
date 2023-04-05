@@ -1,0 +1,19 @@
+body{
+     background-color: darksalmon;
+}
+
+span {
+    font-size: 24px;
+    background-color: beige;
+}
+
+#score{
+    margin-right: 20px;
+    float: right;
+}
+
+#timer{
+    margin-left: 20px;
+    float: left;
+}
+
